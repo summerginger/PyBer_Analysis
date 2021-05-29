@@ -27,4 +27,4 @@
 
   2-	Offer coupons to the rural riders to balance high prices to promote the services in rural areas.
 
-  3-  Moreover, we need more than just analyzing the basic riding-sharing data. If we could able to collect destinations and set the rating and reasons for users to use the app,         that would be helpful to make a better promotion and prediction plan in the future.
+  3-  Moreover, we need more than just analyzing the basic riding-sharing data. If we could able to collect destinations and set the rating and reasons for users to use the app,         that would be helpful to make a better promotion, prediction and decision plan in the future.
