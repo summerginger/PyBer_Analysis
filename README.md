@@ -11,7 +11,8 @@
 
   The table shows the information of the ride-sharing data among urban, suburban and rural areas.
  ![table](https://github.com/summerginger/PyBer_Analysis/blob/main/analysis/table.png)
-  The ride-sharing data clearly shows that the urban gets the highest numbers in total rides, the total drivers, and the total fares, three times that of the suburban and ten to     twenty times that of the rural area. However, the average cost per ride and the average fare per driver is the highest in the rural area.
+  The ride-sharing data clearly shows that the urban gets the highest numbers in total rides, the total drivers, and the total fares, three times that of the suburban and ten to     twenty times that of the rural area. However, though the rural area gets the least of the total riders, drivers and fares, the average cost per ride and the average fare per       driver of the rural area is the highest.
+  
   Overall, the farther distance from the urban the fewer rides, and yet the higher fare, the more fare the average driver gets.
 
 ![Pyber fare summary](https://github.com/summerginger/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)  
