@@ -1,12 +1,13 @@
 # PyBer_Analysis
 
-# Overview of the analysis
+## Overview of the analysis
   This report applied Pandas and Matplotlib to create a ride-sharing summary data frame and a multiple-line graph showing the total fares for each city type. 
 
-##The purpose 
+### The purpose 
+  
   The purpose of this new analysis is to provide the differences between the ride-sharing information which decision-makers can use to improve the places' access and affordability   at Pyber.
 
-# Results
+## Results
 
   The table shows the information of the ride-sharing data among urban, suburban and rural areas.
  ![table](https://github.com/summerginger/PyBer_Analysis/blob/main/analysis/table.png)
@@ -14,11 +15,10 @@
   Overall, the farther distance from the urban the fewer rides, and yet the higher fare, the more fare the average driver gets.
 
 ![Pyber fare summary](https://github.com/summerginger/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)  
-
   The line chart shows that the highest fare between the three city types begins in the middle of February. 
   Based on this information, we believe this may also the busiest time for the drivers. Therefore, the same situation is expected to happen in the coming year.
 
-# Summary
+## Summary
 
   To conclude, three suggestions are provided in hoping to address the disparities:
 
